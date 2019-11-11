@@ -1,8 +1,7 @@
 
-
 @extends('design_parent_page')
-@section('title','pag2')
-@section('form')
+@section('title','AdminPage')
+@section('navbar')
 
 
 

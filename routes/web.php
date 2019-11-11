@@ -22,3 +22,7 @@ Route::get('/pag1', function () {
  Route::get('/pag2', function () {
     return view('pag2');
 });
+
+ Route::get('/AdminPage', function () {
+    return view('AdminPage');
+});
